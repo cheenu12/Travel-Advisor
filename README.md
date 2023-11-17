@@ -3,7 +3,7 @@
 ![Travel Companion]
 
 Welcome to **Travel Companion**! This web application helps you explore new places, find restaurants, hotels, and attractions near you. It brings together essential information about different places, including ratings, prices, and more, all in one convenient platform.
-
+link : https://travel-advior-chirag.netlify.app/
 ## Features
 
 -   Discover restaurants, hotels, and attractions near your location.
