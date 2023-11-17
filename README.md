@@ -4,8 +4,6 @@
 
 Welcome to **Travel Companion**! This web application helps you explore new places, find restaurants, hotels, and attractions near you. It brings together essential information about different places, including ratings, prices, and more, all in one convenient platform.
 
-Visit the live application: [Travel Companion](https://travel-companion-one.vercel.app/)
-
 ## Features
 
 -   Discover restaurants, hotels, and attractions near your location.
